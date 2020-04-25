@@ -1,2 +1,2 @@
-# Horror-Enthusias
+# Horror-Enthusiast
 my first ever project using html and css :) 
